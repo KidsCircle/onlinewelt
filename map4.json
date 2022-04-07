@@ -148,7 +148,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/test\/irrgarten"
                 }],
          "type":"tilelayer",
          "visible":true,
