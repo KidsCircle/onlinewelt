@@ -333,6 +333,28 @@
                  "width":252.631578947368,
                  "x":737.368421052632,
                  "y":512.368421052632
+                }, 
+                {
+                 "height":158.684210526316,
+                 "id":37,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":252.631578947368,
+                 "x":738.157894736842,
+                 "y":511.578947368421
+                }, 
+                {
+                 "height":0,
+                 "id":38,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":990,
+                 "y":670.263157894737
                 }],
          "opacity":1,
          "properties":[
@@ -350,7 +372,40 @@
          "draworder":"topdown",
          "id":73,
          "name":"Onlinewelt",
-         "objects":[],
+         "objects":[
+                {
+                 "height":157.105263157895,
+                 "id":35,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":253.421052631579,
+                 "x":737.368421052632,
+                 "y":512.368421052632
+                }, 
+                {
+                 "height":158.684210526316,
+                 "id":39,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":188.684210526316,
+                 "x":2.36842105263159,
+                 "y":512.368421052632
+                }, 
+                {
+                 "height":0,
+                 "id":40,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":2.36842105263158,
+                 "y":670.263157894737
+                }],
          "opacity":1,
          "properties":[
                 {
@@ -489,7 +544,7 @@
          "y":0
         }],
  "nextlayerid":74,
- "nextobjectid":34,
+ "nextobjectid":41,
  "orientation":"orthogonal",
  "properties":[
         {
