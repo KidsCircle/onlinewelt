@@ -416,6 +416,12 @@
                  "height":158.684210526316,
                  "id":30,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/test\/onlinewelt"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -466,6 +472,12 @@
                  "height":157.105263157895,
                  "id":35,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/www.janosch.de\/images\/JANOSCH-MOMENTE.jpg"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -477,6 +489,12 @@
                  "height":158.684210526316,
                  "id":39,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/test\/onlinewelt"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
