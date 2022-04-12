@@ -415,7 +415,7 @@
                 {
                  "height":158.684210526316,
                  "id":30,
-                 "name":"",
+                 "name":"G\u00e4stezimmer",
                  "properties":[
                         {
                          "name":"url",
@@ -423,10 +423,10 @@
                          "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/test\/onlinewelt"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":252.631578947368,
-                 "x":737.368421052632,
+                 "x":735.789473684211,
                  "y":512.368421052632
                 }, 
                 {
@@ -479,7 +479,7 @@
                          "value":"https:\/\/www.janosch.de\/images\/JANOSCH-MOMENTE.jpg"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":253.421052631579,
                  "x":737.368421052632,
@@ -488,7 +488,7 @@
                 {
                  "height":158.684210526316,
                  "id":39,
-                 "name":"",
+                 "name":"Onlinewelt",
                  "properties":[
                         {
                          "name":"url",
@@ -496,7 +496,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/test\/onlinewelt"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":188.684210526316,
                  "x":2.36842105263159,
