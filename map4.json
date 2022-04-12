@@ -413,7 +413,7 @@
          "name":"G\u00e4stezimmer",
          "objects":[
                 {
-                 "height":158.684210526316,
+                 "height":287.368421052632,
                  "id":30,
                  "name":"G\u00e4stezimmer",
                  "properties":[
@@ -425,9 +425,9 @@
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":252.631578947368,
-                 "x":735.789473684211,
-                 "y":512.368421052632
+                 "width":382.894736842105,
+                 "x":605.526315789474,
+                 "y":383.684210526316
                 }, 
                 {
                  "height":158.684210526316,
@@ -486,7 +486,7 @@
                  "y":512.368421052632
                 }, 
                 {
-                 "height":158.684210526316,
+                 "height":285,
                  "id":39,
                  "name":"Onlinewelt",
                  "properties":[
@@ -496,11 +496,11 @@
                          "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/test\/onlinewelt"
                         }],
                  "rotation":0,
-                 "type":"Webseite",
+                 "type":"website",
                  "visible":true,
-                 "width":188.684210526316,
+                 "width":337.105263157895,
                  "x":2.36842105263159,
-                 "y":512.368421052632
+                 "y":386.052631578948
                 }, 
                 {
                  "height":0,
