@@ -413,32 +413,15 @@
          "name":"G\u00e4stezimmer",
          "objects":[
                 {
-                 "height":287.368421052632,
-                 "id":30,
-                 "name":"G\u00e4stezimmer",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/test\/onlinewelt"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":382.894736842105,
-                 "x":605.526315789474,
-                 "y":383.684210526316
-                }, 
-                {
-                 "height":158.684210526316,
+                 "height":317.368421052632,
                  "id":37,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":252.631578947368,
-                 "x":738.157894736842,
-                 "y":511.578947368421
+                 "width":440.526315789473,
+                 "x":550.263157894737,
+                 "y":352.894736842105
                 }, 
                 {
                  "height":0,
