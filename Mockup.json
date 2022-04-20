@@ -107,7 +107,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"https:\/\/www.mboxdrive.com\/202913_tritus_fountain04.mp3"
+                 "value":"src\/assets\/Brunnen.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -146,7 +146,7 @@
                  "value":"src\/assets\/KidsCircleLied_30sek.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -161,7 +161,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"https:\/\/www.mboxdrive.com\/Wald_verstecken.mp3"
+                 "value":"src\/assets\/Wald_verstecken.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
