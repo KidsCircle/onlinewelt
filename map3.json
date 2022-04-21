@@ -447,15 +447,47 @@
          "draworder":"topdown",
          "id":72,
          "name":"configuration",
-         "objects":[],
+         "objects":[
+                {
+                 "height":61.4546320552513,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":25.3622291021672,
+                 "x":642.83496070493,
+                 "y":159.001667063587
+                }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openConfig",
+                 "type":"string",
+                 "value":"rightDoorExitUrl"
+                }, 
+                {
+                 "name":"openConfigTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openConfigTriggerMessage",
+                 "type":"string",
+                 "value":"Teleporter festlegen"
+                }, 
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"door2Config"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":73,
- "nextobjectid":27,
+ "nextlayerid":74,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
