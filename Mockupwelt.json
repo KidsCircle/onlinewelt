@@ -53,7 +53,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vimeo.com\/702863390"
+                 "value":"<iframe src=\"https:\/\/player.vimeo.com\/video\/702863390?h=29c036df76&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"Framework_KC-Fundus\"><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -130,7 +130,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"C:\/Users\/PacoS\/OneDrive\/Dokumente\/GitHub\/onlinewelt\/src\/assets\/crystal.wav"
+                 "value":"C:\/Users\/PacoS\/OneDrive\/Dokumente\/GitHub\/onlinewelt\/src\/assets\/Crystal.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
