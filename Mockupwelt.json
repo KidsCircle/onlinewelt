@@ -58,7 +58,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"autoplay *; fullscreen *; picture-in-picture *"
+                 "value":"autoplay *; fullscreen *; picture-in-picture *; allowfullscreen *"
                 }],
          "type":"tilelayer",
          "visible":true,
