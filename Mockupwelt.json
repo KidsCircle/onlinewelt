@@ -54,6 +54,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/player.vimeo.com\/video\/702863390?h=29c036df76&amp;badge=0&amp;autopause=0&amp;player_id=0&amp"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"autoplay *; fullscreen *; picture-in-picture *"
                 }],
          "type":"tilelayer",
          "visible":true,
