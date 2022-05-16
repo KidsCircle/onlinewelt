@@ -304,7 +304,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"src\/assets\/KidsCircleLied_30sek.mp3"
+                 "value":"src\/assets\/KC_Lied.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,
