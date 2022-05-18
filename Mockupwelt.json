@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/go.limnu.com\/coneflower-grand"
+                 "value":"https:\/\/app.ziteboard.com\/team\/63ab87cc-fd5a-4595-81a0-9dd55b3ca51d"
                 }],
          "type":"tilelayer",
          "visible":true,
