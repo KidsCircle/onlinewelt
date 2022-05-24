@@ -792,6 +792,19 @@
         {
          "firstgid":6654,
          "source":"src\/assets\/KidsCircle_Tileset.tsx"
+        }, 
+        {
+         "columns":41,
+         "firstgid":8417,
+         "image":"src\/assets\/KidsCircle_Tileset.png",
+         "imageheight":1376,
+         "imagewidth":1312,
+         "margin":0,
+         "name":"KidsCircle_Tileset",
+         "spacing":0,
+         "tilecount":1763,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
