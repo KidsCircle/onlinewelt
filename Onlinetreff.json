@@ -22,9 +22,20 @@
                 {
                  "height":517.336549229047,
                  "id":25,
-                 "name":"",
+                 "name":"Zoom",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"-5,0"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"zone",
                  "visible":true,
                  "width":628.918942200017,
                  "x":0,
@@ -33,9 +44,20 @@
                 {
                  "height":284.027909380653,
                  "id":26,
-                 "name":"",
+                 "name":"Zoom",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"-5,0"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"zone",
                  "visible":true,
                  "width":299.243690240331,
                  "x":776.00482384357,
@@ -44,9 +66,20 @@
                 {
                  "height":284.027909380653,
                  "id":27,
-                 "name":"",
+                 "name":"Zoom",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"-5,0"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"zone",
                  "visible":true,
                  "width":202.877078129038,
                  "x":1232.4782496339,
@@ -77,9 +110,20 @@
                 {
                  "height":829.260056852442,
                  "id":28,
-                 "name":"",
+                 "name":"Zoom",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"5,0"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"zone",
                  "visible":true,
                  "width":1838.57352054441,
                  "x":10.1438539064519,
