@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe src=\"https:\/\/www.heyhi.sg\/share\/sampleiframe?id=999616253&access_code=3424\" width=\"100%\" height=\"500px\"><\/iframe>"
+                 "value":"https:\/\/www.heyhi.sg\/share\/sampleiframe?id=999616253&access_code=3424"
                 }],
          "type":"tilelayer",
          "visible":true,
