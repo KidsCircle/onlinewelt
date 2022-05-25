@@ -86,17 +86,6 @@
                  "y":355.034886725816
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"focusable",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"string",
-                 "value":"-5,0"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -130,17 +119,6 @@
                  "y":666.958394349212
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"focusable",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"string",
-                 "value":"5,0"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
