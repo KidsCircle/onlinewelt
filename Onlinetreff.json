@@ -95,29 +95,7 @@
          "draworder":"topdown",
          "id":88,
          "name":"zoom2",
-         "objects":[
-                {
-                 "height":829.260056852442,
-                 "id":28,
-                 "name":"Zoom",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"string",
-                         "value":"5,0"
-                        }],
-                 "rotation":0,
-                 "type":"zone",
-                 "visible":true,
-                 "width":1838.57352054441,
-                 "x":10.1438539064519,
-                 "y":666.958394349212
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
