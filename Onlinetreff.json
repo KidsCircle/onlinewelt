@@ -147,7 +147,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"{{{ officeURL }}}"
+                 "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/onlinewelt\/office"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -233,7 +233,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"{{{ blackboardURL }}}"
+                         "value":"https:\/\/onlnbrd.com\/b\/meGCHWcc?f=0"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -748,39 +748,6 @@
                  "visible":true,
                  "width":0,
                  "x":384,
-                 "y":640
-                }, 
-                {
-                 "height":0,
-                 "id":19,
-                 "name":"lernzirkelURL",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/kidscircle.io\/"
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Backup: https:\/\/valdotr.github.io\/kidscircle-map\/src\/lernzirkel.html"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Configure the Lernzirkel website"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":896,
                  "y":640
                 }, 
                 {
