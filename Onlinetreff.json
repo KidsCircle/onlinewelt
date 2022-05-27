@@ -295,7 +295,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"\/@\/kidscircle\/onlinewelt\/Kurse"
                         }],
@@ -313,7 +313,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"\/@\/kidscircle\/onlinewelt\/Lernzirkel"
                         }],
@@ -354,7 +354,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/onlinewelt\/KidsCircle-Haus01"
                         }],
