@@ -30,7 +30,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"\/@\/kidscircle\/onlinewelt\/onlinetreff"
+                 "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/onlinewelt\/onlinetreff"
                 }],
          "type":"tilelayer",
          "visible":true,

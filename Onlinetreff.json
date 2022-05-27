@@ -356,7 +356,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"\/@\/kidscircle\/onlinewelt\/kidscircle-haus01"
+                         "value":"https:\/\/play.workadventu.re\/@\/kidscircle\/onlinewelt\/KidsCircle-Haus01"
                         }],
                  "type":"tilelayer",
                  "visible":true,
