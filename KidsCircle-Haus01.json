@@ -148,7 +148,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
@@ -380,7 +380,7 @@
                          "value":"camera *; microphone *; display-capture *"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":58,
                  "x":0,
                  "y":0
