@@ -412,7 +412,7 @@
                         {
                          "name":"audioVolume",
                          "type":"string",
-                         "value":"0,1"
+                         "value":"0,2"
                         }, 
                         {
                          "name":"playAudio",
