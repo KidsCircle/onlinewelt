@@ -142,7 +142,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":58,
          "x":0,
          "y":0
@@ -738,54 +738,6 @@
                  "width":0,
                  "x":1536,
                  "y":928
-                }, 
-                {
-                 "height":0,
-                 "id":31,
-                 "name":"door_Kurse",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"closeLayer",
-                         "type":"string",
-                         "value":"closed_Kurse"
-                        }, 
-                        {
-                         "name":"closeSound",
-                         "type":"string",
-                         "value":"src\/assets\/door_close.mp3"
-                        }, 
-                        {
-                         "name":"default",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"door",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openLayer",
-                         "type":"string",
-                         "value":"opened_Kurse"
-                        }, 
-                        {
-                         "name":"openSound",
-                         "type":"string",
-                         "value":"src\/assets\/door_open.mp3"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":1345.33333333333,
-                 "y":664
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -929,6 +881,54 @@
                  "width":0,
                  "x":480,
                  "y":992
+                }, 
+                {
+                 "height":0,
+                 "id":32,
+                 "name":"door_Kurse",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_Kurse"
+                        }, 
+                        {
+                         "name":"closeSound",
+                         "type":"string",
+                         "value":"src\/assets\/door_close.mp3"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"opened_Kurse"
+                        }, 
+                        {
+                         "name":"openSound",
+                         "type":"string",
+                         "value":"src\/assets\/door_open.mp3"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":false
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":1556,
+                 "y":794.666666666667
                 }],
          "opacity":1,
          "properties":[
@@ -991,7 +991,7 @@
          "y":0
         }],
  "nextlayerid":101,
- "nextobjectid":32,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
