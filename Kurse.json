@@ -385,7 +385,7 @@
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
-                         "value":"camera *; microphone *; display-capture *"
+                         "value":"camera *; microphone *; display-capture *; same-origin*; autoplay*;"
                         }],
                  "type":"tilelayer",
                  "visible":true,
