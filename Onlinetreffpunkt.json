@@ -50,14 +50,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"code",
+                 "type":"string",
+                 "value":"1234"
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door_Kurse"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"Kids_Coach"
                 }, 
                 {
                  "name":"zone",
