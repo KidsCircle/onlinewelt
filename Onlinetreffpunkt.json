@@ -437,7 +437,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
@@ -664,7 +664,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/samba.live\/live\/info@kidscircle.io\/epafky12?auth=1"
+                         "value":"https:\/\/samba.live\/live\/info@kidscircle.io\/onlinetreff?auth=1"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -672,7 +672,7 @@
                          "value":"camera *; microphone *; display-capture *; same-origin*;"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":58,
                  "x":0,
                  "y":0
