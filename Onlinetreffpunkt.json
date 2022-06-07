@@ -664,7 +664,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/samba.live\/live\/kidscircle\/welt"
+                         "value":"https:\/\/samba.live\/live\/kidscircle\/welt?auth=1"
                         }, 
                         {
                          "name":"openWebsitePolicy",
