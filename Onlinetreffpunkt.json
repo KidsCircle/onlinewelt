@@ -47,12 +47,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"door_Giraffe"
+                 "value":"door_Huhn"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"open_Giraffe_zone2"
+                 "value":"open_Huhn_zone2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -70,12 +70,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"door_Giraffe"
+                 "value":"door_Hase"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"open_Giraffe_zone2"
+                 "value":"open_Hase_zone2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -167,7 +167,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"door_Giraffe"
+                 "value":"door_Huhn"
                 }, 
                 {
                  "name":"tag",
@@ -177,7 +177,7 @@
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"open_Giraffe_zone1"
+                 "value":"open_Huhn_zone1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -195,7 +195,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"door_Eichhoernchen"
+                 "value":"door_Hase"
                 }, 
                 {
                  "name":"tag",
@@ -205,7 +205,7 @@
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"open_Eichhoernchen_zone1"
+                 "value":"open_Hase_zone1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -437,7 +437,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":58,
          "x":0,
          "y":0
@@ -672,7 +672,7 @@
                          "value":"camera *; microphone *; display-capture *; same-origin*;"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":58,
                  "x":0,
                  "y":0
