@@ -515,7 +515,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/apps.elfsight.com\/p\/platform.js"
+                         "value":"https:\/\/kidscircle.io\/pages\/ohrensessel"
                         }],
                  "type":"tilelayer",
                  "visible":true,
