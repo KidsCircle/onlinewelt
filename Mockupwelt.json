@@ -103,7 +103,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/mein.kidscircle.io\/OnlineTreff-01"
                 }],
