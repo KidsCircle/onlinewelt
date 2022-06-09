@@ -27,6 +27,11 @@
                  "value":"door_Giraffe"
                 }, 
                 {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"Kids-Coach"
+                }, 
+                {
                  "name":"zone",
                  "type":"string",
                  "value":"open_Giraffe_zone2"
@@ -48,6 +53,11 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door_Drache"
+                }, 
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"Kids-Coach"
                 }, 
                 {
                  "name":"zone",
@@ -73,6 +83,11 @@
                  "value":"door_Hase"
                 }, 
                 {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"Kids-Coach"
+                }, 
+                {
                  "name":"zone",
                  "type":"string",
                  "value":"open_Hase_zone2"
@@ -96,6 +111,11 @@
                  "value":"door_Eichhoernchen"
                 }, 
                 {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"Kids-Coach"
+                }, 
+                {
                  "name":"zone",
                  "type":"string",
                  "value":"open_Eichhoernchen_zone2"
@@ -117,6 +137,11 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door_Kolibri"
+                }, 
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"Kids-Coach"
                 }, 
                 {
                  "name":"zone",
