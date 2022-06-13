@@ -735,12 +735,12 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{\n\"hideAddRoomButton\": false\n\"hideAutoAssignButton\": false\n\"hideJoinRoomButton\": false\n\"disableDeepLinking\": true\n}"
+                         "value":"{\n\"hideAddRoomButton\": false,\n\"hideAutoAssignButton\": false,\n\"hideJoinRoomButton\": false,\n\"disableDeepLinking\": true\n}"
                         }, 
                         {
                          "name":"jitsiInterfaceConfig",
                          "type":"string",
-                         "value":"{\n\"DEFAULT_BACKGROUND\": \"#e45954\"\n\"MOBILE_APP_PROMO\": false\n}"
+                         "value":"{\n\"DEFAULT_BACKGROUND\": \"#e45954\",\n\"MOBILE_APP_PROMO\": false\n}"
                         }, 
                         {
                          "name":"jitsiRoom",
