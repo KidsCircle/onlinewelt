@@ -735,7 +735,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{\n\"breakoutRooms.hideAddRoomButton\": false,\n\"hideAutoAssignButton\": false,\n\"hideJoinRoomButton\": false,\n\"disableDeepLinking\": true,\n\"toolbarButtons\": \"participants-pane\"\n}"
+                         "value":"{\n\"breakoutRooms.hideAddRoomButton\": false,\n\"hideAutoAssignButton\": false,\n\"hideJoinRoomButton\": false,\n\"disableDeepLinking\": true,\n\"TOOLBAR_BUTTONS\": \"participants-pane\"\n}"
                         }, 
                         {
                          "name":"jitsiInterfaceConfig",
