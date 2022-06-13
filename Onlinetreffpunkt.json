@@ -735,7 +735,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{\n\"hideAddRoomButton\": false,\n\"hideAutoAssignButton\": false,\n\"hideJoinRoomButton\": false,\n\"disableDeepLinking\": true\n}"
+                         "value":"{\n\"breakoutRooms.hideAddRoomButton\": false,\n\"hideAutoAssignButton\": false,\n\"hideJoinRoomButton\": false,\n\"disableDeepLinking\": true\n}"
                         }, 
                         {
                          "name":"jitsiInterfaceConfig",
