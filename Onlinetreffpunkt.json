@@ -735,12 +735,12 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{\n\"hideAddRoomButton\": false\n}\n{\n\"hideAutoAssignButton\": false\n}\n{\n\"hideJoinRoomButton\": false\n}\n{\n\"disableDeepLinking\": true\n}"
+                         "value":"{\n\"hideAddRoomButton\": false\n\"hideAutoAssignButton\": false\n\"hideJoinRoomButton\": false\n\"disableDeepLinking\": true\n}"
                         }, 
                         {
                          "name":"jitsiInterfaceConfig",
                          "type":"string",
-                         "value":"{\n\"DEFAULT_BACKGROUND\": \"#e45954\"\n}\n{\n\"MOBILE_APP_PROMO\": false\n}"
+                         "value":"{\n\"DEFAULT_BACKGROUND\": \"#e45954\"\n\"MOBILE_APP_PROMO\": false\n}"
                         }, 
                         {
                          "name":"jitsiRoom",
@@ -751,6 +751,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"Kids-Coach"
+                        }, 
+                        {
+                         "name":"jitsiWidth",
+                         "type":"float",
+                         "value":35
                         }],
                  "type":"tilelayer",
                  "visible":true,
