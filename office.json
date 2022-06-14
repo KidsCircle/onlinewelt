@@ -30,7 +30,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{\n\"breakoutRooms\": { \"hideAddRoomButton\": false, \"hideAutoAssignButton\": false, \"hideJoinRoomButton\": false },\n\"toolbarButtons\": [\"participants-pane\", \"camera\", \"chat\", \"microphone\", \"select-background\", \"security\", \"tileview\", \"toggle-camera\", \"settings\", \"highlight\", \"hangup\", \"fullscreen\", \"filmstrip\", \"etherpad\"]\n}"
+                 "value":"{\n\"breakoutRooms\": { \"hideAddRoomButton\": false, \"hideAutoAssignButton\": false, \"hideJoinRoomButton\": false },\n\"toolbarButtons\": [\"participants-pane\", \"camera\", \"chat\", \"microphone\", \"select-background\", \"security\", \"tileview\", \"toggle-camera\", \"settings\", \"highlight\", \"hangup\", \"fullscreen\", \"filmstrip\", \"etherpad\", \"download\", \"raisehand\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"videoquality\", \"__end\"]\n}"
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
