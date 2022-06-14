@@ -776,7 +776,7 @@
                         {
                          "name":"jitsiInterfaceConfig",
                          "type":"string",
-                         "value":"{\n\"DEFAULT_BACKGROUND\": \"#e45954\",\n\"MOBILE_APP_PROMO\": false\n}"
+                         "value":"{\n\"DEFAULT_BACKGROUND\": \"#e4595400\",\n\"MOBILE_APP_PROMO\": false\n}"
                         }, 
                         {
                          "name":"jitsiRoom",
