@@ -771,7 +771,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{\"transcribeWithAppLanguage\": true, \"disableDeepLinking\": true, \"backgroundAlpha\": [1],\n\"breakoutRooms\": { \"hideAddRoomButton\": false, \"hideAutoAssignButton\": false, \"hideJoinRoomButton\": false },\n\"toolbarButtons\": [\"participants-pane\", \"chat\", \"microphone\", \"select-background\", \"security\", \"tileview\", \"settings\", \"highlight\", \"hangup\", \"fullscreen\", \"filmstrip\", \"etherpad\", \"download\", \"raisehand\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"videoquality\", \"desktop\", \"__end\"]\n}"
+                         "value":"{\"transcribeWithAppLanguage\": false, disableDeepLinking\": true, \"preferredTranscribeLanguage\": \"de\", \"backgroundAlpha\": [1],\n\"breakoutRooms\": { \"hideAddRoomButton\": false, \"hideAutoAssignButton\": false, \"hideJoinRoomButton\": false },\n\"toolbarButtons\": [\"participants-pane\", \"chat\", \"microphone\", \"select-background\", \"security\", \"tileview\", \"settings\", \"highlight\", \"hangup\", \"fullscreen\", \"filmstrip\", \"etherpad\", \"download\", \"raisehand\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"videoquality\", \"desktop\", \"__end\"]\n}"
                         }, 
                         {
                          "name":"jitsiInterfaceConfig",
@@ -809,7 +809,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{\"transcribeWithAppLanguage\": true, \"disableDeepLinking\": true, \"backgroundAlpha\": [1],\n\"breakoutRooms\": { \"hideAddRoomButton\": false, \"hideAutoAssignButton\": false, \"hideJoinRoomButton\": false },\n\"toolbarButtons\": [\"participants-pane\", \"camera\", \"chat\", \"microphone\", \"select-background\", \"security\", \"tileview\", \"toggle-camera\", \"settings\", \"highlight\", \"hangup\", \"fullscreen\", \"filmstrip\", \"etherpad\", \"download\", \"raisehand\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"videoquality\", \"desktop\", \"__end\"]\n}"
+                         "value":"{\"transcribeWithAppLanguage\": false, \"preferredTranscribeLanguage\": \"de\", \"disableDeepLinking\": true,  \"giphy\": { \"enabled\": true }, \"backgroundAlpha\": 0,\n\"breakoutRooms\": { \"hideAddRoomButton\": false, \"hideAutoAssignButton\": false, \"hideJoinRoomButton\": false },\n\"toolbarButtons\": [\"participants-pane\", \"camera\", \"chat\", \"microphone\", \"select-background\", \"security\", \"tileview\", \"toggle-camera\", \"settings\", \"highlight\", \"hangup\", \"fullscreen\", \"filmstrip\", \"etherpad\", \"download\", \"raisehand\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"videoquality\", \"desktop\", \"__end\"]\n}"
                         }, 
                         {
                          "name":"jitsiInterfaceConfig",
