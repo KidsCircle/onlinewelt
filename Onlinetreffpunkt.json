@@ -1763,6 +1763,71 @@
                  "width":0,
                  "x":1477.33333333333,
                  "y":1766.66666666667
+                }, 
+                {
+                 "height":0,
+                 "id":40,
+                 "name":"BBB",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"bbbMeeting",
+                         "type":"string",
+                         "value":"4d26976e-6c7f-478f-ba62-d019a57c115c"
+                        }, 
+                        {
+                         "name":"bbbMeetingAdminTag",
+                         "type":"string",
+                         "value":"Kids-Coach"
+                        }, 
+                        {
+                         "name":"meetingName",
+                         "type":"string",
+                         "value":"Onlinetreff"
+                        }, 
+                        {
+                         "name":"userdata-",
+                         "type":"string",
+                         "value":"userdata-bbb_auto_share_webcam=true"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":0,
+                 "x":1886,
+                 "y":1110
+                }, 
+                {
+                 "height":1038,
+                 "id":43,
+                 "name":"BigBlueButton",
+                 "properties":[
+                        {
+                         "name":"bbbMeeting",
+                         "type":"string",
+                         "value":"4d26976e-6c7f-478f-ba62-d019a57c115c"
+                        }, 
+                        {
+                         "name":"bbbMeetingAdminTag",
+                         "type":"string",
+                         "value":"Kids-Coach"
+                        }, 
+                        {
+                         "name":"meetingName",
+                         "type":"string",
+                         "value":"Onlinetreff"
+                        }, 
+                        {
+                         "name":"userdata-",
+                         "type":"string",
+                         "value":"userdata-bbb_auto_share_webcam=true"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":1174,
+                 "x":1328,
+                 "y":940
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1819,7 +1884,7 @@
          "y":0
         }],
  "nextlayerid":142,
- "nextobjectid":40,
+ "nextobjectid":45,
  "orientation":"orthogonal",
  "properties":[
         {
