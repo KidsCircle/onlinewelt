@@ -847,7 +847,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet.jit.si"
+                         "value":"https:\/\/meet.jit.si"
                         }],
                  "type":"tilelayer",
                  "visible":true,
