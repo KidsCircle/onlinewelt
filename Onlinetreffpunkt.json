@@ -789,6 +789,11 @@
                          "value":"Kids-Coach"
                         }, 
                         {
+                         "name":"jitsiURL",
+                         "type":"string",
+                         "value":"https:\/\/meet.jit.si"
+                        }, 
+                        {
                          "name":"jitsiWidth",
                          "type":"int",
                          "value":33
